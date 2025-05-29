@@ -5,7 +5,7 @@
 
 🚀 Passionate about smart systems, automation, and AI innovation.  
 🔍 Focused on software engineering, cloud-native applications, and ethical AI.  
-🎯 Seeking to contribute innovative tech to real-world applications at Bosch.
+🎯 Seeking to contribute innovative tech to real-world applications.
 
 ## 🔧 Technologies & Tools
 - Languages: C#, Python, JavaScript, SQL, C++
@@ -17,7 +17,7 @@
 ## 📌 Featured Projects
 - [AI Predictive Maintenance](https://github.com/ciprianvladgherga/ai-predictive-maintenance) – Detect industrial anomalies using ML.
 - [IoT Sensor Dashboard](https://github.com/ciprianvladgherga/iot-sensor-dashboard) – Real-time dashboard with React and Flask.
-- [Supply Chain Ledger](https://github.com/ciprianvladgherga/bosch-supplychain-dapp) – Blockchain smart contracts for transparent logistics.
+- [Supply Chain Ledger](https://github.com/ciprianvladgherga/personal-supplychain-dapp) – Blockchain smart contracts for transparent logistics.
 
 ## 📫 Let's Connect
 - Email: fairfax2812@gmail.com  
@@ -92,10 +92,6 @@ The relationship and flow between the core technical components can be visualize
 ```
 *Diagram illustrating the data flow and dependencies between project components.*
 
-## 4. Acknowledgment of Gherga Ciprian Vlad
-
-It is important to reiterate and emphasize the significant overall contribution of Gherga Ciprian Vlad to the conceptualization and creation of this AI Predictive Maintenance model application. As noted in the individual file headers and the project's contribution guidelines, his vision, technical expertise, and initial development work have been fundamental in establishing the core components and structure of this project. His effort laid the essential groundwork, making this predictive maintenance solution possible.
-
-## 5. Conclusion
+## 4. Conclusion
 
 In summary, the AI Predictive Maintenance model application is a well-structured project encompassing data analysis, model development, and API deployment, with foundational contributions notably provided by Gherga Ciprian Vlad.
